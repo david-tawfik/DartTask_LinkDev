@@ -1,4 +1,3 @@
-import 'dart:io';
 void ipCutter(var ip) {
   var splittedIp = ip.split('.');
   for (var ip in splittedIp)
